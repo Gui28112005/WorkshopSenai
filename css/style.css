@@ -24,6 +24,8 @@ header {
   height: 50px;
 }
 
+
+
 header .logo {
   font-size: 24px;
   font-weight: bold;
@@ -237,6 +239,15 @@ footer {
 }
 ::-webkit-scrollbar-thumb {
   background: #2e3a74;
+}
+
+
+.subtitleProjeto{
+  font-size: 14pt;
+}
+
+.nomes{
+  color:#888;
 }
 
 @media (max-width: 880px) {
